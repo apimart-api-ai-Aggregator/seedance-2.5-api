@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "02-fashion-edit-extension",
+    "prompt": "Vertical fashion clip: model in an ivory trench coat turns slowly on a sunlit stone street, fabric moves in the breeze, camera orbits a quarter turn, natural light",
+    "category": "Fashion",
+    "size": "9:16",
+    "resolution": "480p",
+    "model": "seedance-2.5",
+    "cost": 0.48437
+  },
+  {
+    "slug": "03-audio-ready-talking-head",
+    "prompt": "Studio talking-head setup of a presenter at a desk with a soft key light, subtle handheld motion, neutral background, natural skin tones, clean framing",
+    "category": "Talking head",
+    "size": "16:9",
+    "resolution": "480p",
+    "model": "seedance-2.5",
+    "cost": 0.48437
+  },
+  {
+    "slug": "01-steampunk-miniature",
+    "prompt": "Cinematic miniature steampunk landscape: tiny brass airships above a clockwork city, slow crane move revealing the valley, warm volumetric light, shallow depth of field",
+    "category": "Miniature world",
+    "size": "16:9",
+    "resolution": "480p",
+    "model": "seedance-2.5",
+    "cost": 0.48437
+  }
+]

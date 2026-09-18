@@ -1,0 +1,38 @@
+{
+  "id": "seedance-2.5",
+  "alias": "",
+  "official": "",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-09-18T02:33:43Z",
+  "prices": {
+    "default": {
+      "list": 0.27,
+      "effective": 0.216
+    },
+    "1080P": {
+      "list": 0.4811,
+      "effective": 0.38488
+    },
+    "1080P-input": {
+      "list": 0.2874,
+      "effective": 0.22992
+    },
+    "480P": {
+      "list": 0.1201,
+      "effective": 0.09608
+    },
+    "480P-input": {
+      "list": 0.072,
+      "effective": 0.0576
+    },
+    "720P": {
+      "list": 0.27,
+      "effective": 0.216
+    },
+    "720P-input": {
+      "list": 0.162,
+      "effective": 0.1296
+    }
+  },
+  "official_prices": {}
+}
